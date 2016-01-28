@@ -1,14 +1,14 @@
-# Course Outline Quiz
+# Reviewing and Updating Curriculum Quiz
 
 ???
 
 # Course Outline Quiz
 
-?: What is the typical flow of lessons in a unit? 
+?: After you’ve written the first draft of your lesson, you 
 
-(X) have a progression of readmes with each followed one by a lab, and more difficult labs at the very end of the unit
-( ) have a progression of labs with each one followed by a readme that explains the concept 
-( ) have all your readmes first and then all your labs following that
+( ) mark it as “Complete” in the spreadsheet
+(X) make a pull request to master
+( ) make a pull request to master and merge it immediately afterwards
 
 
 ?: Which of the following is an example of a strong learning objective?
@@ -18,57 +18,40 @@
 (X) render multiple routes with multiple views
 
 
-?: Which of the following is NOT an example of a strong learning objective?
 
-( ) use the path method to filter HTTP requests
-(X) know about paths in an HTTP request
-( ) describe GET parameters and how they allow web applications to handle user queries
+?: When giving feedback on lessons (check all that apply):  
 
+[ ] point out only the problem areas to save time 
+[X] point out things that work really well too 
+[ ] start adding comments right away 
+[X] read the lesson in its entirety first before leaving any comments
 
-?: The contributing file gives guidelines for students on how to 
+?: When you have feedback or comments as you’re reviewing
 
-( ) solve a lab
-(X) raise an issue
-( ) edit the curriculum
+( ) raise an issue on the repository and add your comments there 
+(X) comment in-line in the pull request
+( ) send an email 
 
-?: Learning objectives should be (check all that apply)
+?: When you’re reviewing the main body of a Readme (check all that apply): 
+[X]  make sure “big words” are explained, preferably before the terms are even used
+[X] make sure that metaphors, examples, and/or analogies are used frequently
+[ ] make sure that it's written in the first person singular ("I")
 
-[X] measurable
-[ ] abstract
-[X] observable
-[X] have specific conditions or criteria
+?: If you're reviewing code blocks included in a lesson, you need to 
+( ) just make sure the code reads correctly
+(X) make sure that you can properly run the code in a repl or file and get the intended result
 
-?: What is a good range of learning objectives to have in a lesson?
+?: When you're updating a lesson after a review you should:
 
-( ) 1-3 
-(X) 3-8
-( ) 7-10
+( ) create a new branch, make your updates there, and make a new pull request
+( ) make your updates in the master branch
+(X) make your updates in the original wip-branch and keep the pull request as is
 
-?: Learning objectives help your lesson be 
+?: When addressing specific comments when you're updating a lesson, you should: 
 
-(X) student-centered
-( ) content-centered
-
-?: What’s a good verb to start with if your learning objective requires students to create something (check all that apply):
-
-[X] construct
-[ ] analyze
-[X] design
-[X] organize
-
-
-?: If you’re working on a lesson where we’ve defined the objectives for you, what do you do? 
-
-( ) just get started
-(X) review the objectives to make sure that they fit the correct format of learning objectives
-
-?: When writing your lessons, you should:
-
-(X) have your lessons follow multiple narrative domains so that students will have to apply their code in various scenarios
-( ) have all of your lessons follow the same narrative domain so that students can follow things more easily
+(X) make an in-line comment below the reviewer's comment to say that it's been fixed or addressed
+( ) raise an issue on the repository and say that it's been fixed
 
 ???
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/course-outline-quiz'>Course Outline Quiz</a> on Learn.co and start learning to code for free.</p>
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/reviewing-and-updating-curriculum-quiz'>Reviewing and Updating Curriculum Quiz</a> on Learn.co and start learning to code for free.</p>
